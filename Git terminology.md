@@ -1,0 +1,14 @@
+# Git terminology
+- Working tree
+- Repository (repo)
+  - a bare repository
+- Hash: 160 bits long
+- Object :
+    - blob -file
+    - tree -directory : names, hashes, permissions
+    - commit
+    - tag
+- Commit
+- Branch : head: the most recent commit on a branch
+- Remote: origin
+- Commands, subcommands, options: git the command, push/push the subcommand --hard options.
